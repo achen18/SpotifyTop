@@ -2,7 +2,7 @@
 
 Desktop computer-looking jit to display quick information about currently playing Spotify Song. Keys allow play/pause, ability to go to next and previous tracks. Small screen displays current song info. 
 
-<img width="1134" height="1366" alt="Screenshot 2026-04-19 145850" src="https://github.com/user-attachments/assets/f68534a9-b597-4769-8a2c-34899b052798" />
+<img width="1339" height="1588" alt="image" src="https://github.com/user-attachments/assets/ab51661e-10fb-4410-bfb5-e2cc00961c38" />
 
 ## Firmware
 
@@ -12,6 +12,10 @@ Displays Song:
 - title
 - artist
 - play status
+
+## Wiring
+<img width="2357" height="1394" alt="Screenshot 2026-04-25 173943" src="https://github.com/user-attachments/assets/c8a57641-fe20-4359-bffa-c9c913d8b2e6" />
+
 
 ## Bill of Materials
 - 1x ESP32 Board
