@@ -1,0 +1,10 @@
+Reference,Quantity,Part,Description,Link,Notes
+U1,1,ESP32-C3 (LOLIN C3 Mini),WiFi + BLE microcontroller board,https://www.wemos.cc/en/latest/c3/c3_mini.html,Main controller
+U2,1,1.8" TFT ST7735 Display,SPI 128x160 color display module,https://www.amazon.com/s?k=st7735+1.8+tft,Use SPI version only
+SW1,1,Tactile Switch,6x6mm momentary push button,,Button input 1
+SW2,1,Tactile Switch,6x6mm momentary push button,,Button input 2
+SW3,1,Tactile Switch,6x6mm momentary push button,,Button input 3
+J1,1 set,Dupont Jumper Wires (M-F),Breadboard/prototyping jumper wires,https://www.amazon.com/dp/B01EV70C78,Recommended for no-solder build
+H1-H4,4,M3 Heat-set Inserts,Brass threaded inserts for 3D printed case,https://www.amazon.com/s?k=m3+heat+set+inserts,Typically M3 x 4mm
+P1,1,Soldering Iron (Optional),Basic electronics soldering iron kit,https://www.amazon.com/dp/B07Q3J4R4W,Only needed if not using Dupont wires
+W1,1,Solder Wire,Lead-free solder wire for electronics,https://www.amazon.com/s?k=solder+wire,Required if soldering components
